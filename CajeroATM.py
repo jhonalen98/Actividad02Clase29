@@ -65,9 +65,10 @@
 #             break  # Salimos del bucle y terminamos el programa
 #         else:
 #             print("Opción inválida, por favor elige nuevamente.")
-            
-# # Llamada directa al menú
+
 # menu()  # Iniciamos el sistema de cajero automático
+
+#RESUELTOOO
 
 # Variables globales
 saldo = 1000.0  # El saldo inicial en la cuenta
